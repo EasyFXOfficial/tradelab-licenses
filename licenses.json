@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "licenses": []
+  "licenses": [
+    {
+      "keyHash": "fcdba2ecb58f7ef5b25217b49dbb821ae0088038daa8313e83a30e22efb0d25a",
+      "status": "active",
+      "expiresAt": null
+    }
+  ]
 }
